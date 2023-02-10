@@ -19,7 +19,7 @@ app.use("/post", postRouter)
 
 
 
-const port = process.env.PORT || 3030;
+const port = 3030;
 // const port = process.env.PORT
 
 
